@@ -63,10 +63,10 @@
 		2FDBC1E3285235FF004F7136 = {
 			isa = PBXGroup;
 			children = (
+				2FBCCECB2852514500C06A13 /* README.md */,
 				2FBCCEC22852504800C06A13 /* Resources */,
 				2FDBC20B285237FC004F7136 /* Documentation.docc */,
 				2FDBC1EE28523600004F7136 /* DeepLinks */,
-				2FBCCECB2852514500C06A13 /* README.md */,
 				2FDBC1ED28523600004F7136 /* Products */,
 			);
 			sourceTree = "<group>";

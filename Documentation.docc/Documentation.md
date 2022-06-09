@@ -4,7 +4,7 @@ An application to present the possibility of deep links.
 
 ## Overview
 
-Deep Linking App is an iOS app that show how deep links work.
+DeepLinks is an iOS app that show how deep links work.
 
 ![An illustration displaying the UI for viewing logofolio 2022 vol.4 by Vladislav Novitsky](Overview.png)
 
