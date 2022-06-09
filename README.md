@@ -6,11 +6,11 @@ An application to present the possibility of deep links.
 
 DeepLinks is an iOS app that show how deep links work.
 
-![An illustration displaying the UI for viewing logofolio 2022 vol.4 by Vladislav Novitsky](Resources/Overview.png)
+![An illustration displaying the UI for viewing logofolio 2022 vol.4 by Vladislav Novitsky](Documentation.docc/Resources/Overview.png)
 
 Logos from the [logofolio 2022 vol.4](https://www.behance.net/Nowwhiskey) by Vladislav Novitsky were used as content.
 
-![It shows how the transition from a deep link to an application to a specific screen takes place](Resources/Basic_function.png)
+![It shows how the transition from a deep link to an application to a specific screen takes place](Documentation.docc/Resources/Basic_function.png)
 
 It shows how the transition from other app or web site to an application to a specific screen takes place.
 
