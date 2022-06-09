@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2FBCCEC9285250D100C06A13 /* Basic_function.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FBCCEC7285250D100C06A13 /* Basic_function.png */; };
+		2FBCCECA285250D100C06A13 /* Overview.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FBCCEC8285250D100C06A13 /* Overview.png */; };
 		2FDBC1F028523600004F7136 /* DeepLinksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDBC1EF28523600004F7136 /* DeepLinksApp.swift */; };
 		2FDBC1F228523600004F7136 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2FDBC1F128523600004F7136 /* ContentView.swift */; };
 		2FDBC1F428523600004F7136 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2FDBC1F328523600004F7136 /* Assets.xcassets */; };
@@ -20,6 +22,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2FBCCEC7285250D100C06A13 /* Basic_function.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Basic_function.png; sourceTree = "<group>"; };
+		2FBCCEC8285250D100C06A13 /* Overview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Overview.png; sourceTree = "<group>"; };
 		2FDBC1EC28523600004F7136 /* DeepLinks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeepLinks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2FDBC1EF28523600004F7136 /* DeepLinksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeepLinksApp.swift; sourceTree = "<group>"; };
 		2FDBC1F128523600004F7136 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,9 +49,19 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		2FBCCEC22852504800C06A13 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2FBCCEC7285250D100C06A13 /* Basic_function.png */,
+				2FBCCEC8285250D100C06A13 /* Overview.png */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		2FDBC1E3285235FF004F7136 = {
 			isa = PBXGroup;
 			children = (
+				2FBCCEC22852504800C06A13 /* Resources */,
 				2FDBC20B285237FC004F7136 /* Documentation.docc */,
 				2FDBC1EE28523600004F7136 /* DeepLinks */,
 				2FDBC1ED28523600004F7136 /* Products */,
@@ -169,7 +183,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2FBCCEC9285250D100C06A13 /* Basic_function.png in Resources */,
 				2FDBC1F728523600004F7136 /* Preview Assets.xcassets in Resources */,
+				2FBCCECA285250D100C06A13 /* Overview.png in Resources */,
 				2FDBC1F428523600004F7136 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
